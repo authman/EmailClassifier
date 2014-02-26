@@ -12,3 +12,5 @@ The Octave code uses the X and Y matrices to classify the emails. Although the s
 Using this on my personal email, I was able to get an accuracy of 75-80 percent. Using diagnostic statistics to assess the program's performance, I got a Mathews Correlation Coefficient of about .4. 
 
 This is an Eclipse project, so I recommend downloading all the files and importing it into eclipse. Alternatively, you can download all the files in the src directory and run them yourself. 
+
+This code was written hastily since I was excited to take my first step into machine learning, so there is significant room for refactoring and optimizing the code (see issues for more details). 
